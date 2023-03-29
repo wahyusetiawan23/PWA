@@ -7,7 +7,7 @@ class CustomFooter extends HTMLElement {
     this.innerHTML = `
       <footer tabindex="0">
         <ul>
-          <li>Copyright © 2021 - hjhjh Apps</li>
+          <li>hjgjhgjhgj © 2021 - hjhjh Apps</li>
         </ul>
       </footer>
     `;
